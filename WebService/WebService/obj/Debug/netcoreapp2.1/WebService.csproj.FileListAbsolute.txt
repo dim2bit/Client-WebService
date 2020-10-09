@@ -1,0 +1,11 @@
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\bin\Debug\netcoreapp2.1\WebService.deps.json
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\bin\Debug\netcoreapp2.1\WebService.runtimeconfig.json
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\bin\Debug\netcoreapp2.1\WebService.runtimeconfig.dev.json
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\bin\Debug\netcoreapp2.1\WebService.dll
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.csprojAssemblyReference.cache
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.csproj.CoreCompileInputs.cache
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.AssemblyInfoInputs.cache
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.AssemblyInfo.cs
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\bin\Debug\netcoreapp2.1\WebService.pdb
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.dll
+C:\dima\programming\C# .Net\Client-WebService\WebService\WebService\obj\Debug\netcoreapp2.1\WebService.pdb
